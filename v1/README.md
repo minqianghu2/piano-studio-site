@@ -1,3 +1,3 @@
 # piano-studio-site
 
-# Webistes for a piano Studio created based on NodeJS
+# Webistes for a piano Studio based on NodeJS
